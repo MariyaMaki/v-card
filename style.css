@@ -1,0 +1,12 @@
+body {
+    height: 100vh;
+    background: linear-gradient(-20deg, rgb(124, 3, 127), rgb(245, 238, 247));
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: auto;
+
+}
+
+img {
+    clip-path: polygon(23% 9%, 78% 9%, 96% 51%, 78% 91%, 23% 91%, 5% 50%);
+
+}
